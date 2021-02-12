@@ -22,8 +22,7 @@ Here the circuit was simple ,we used 4 transistors and got 4 detection values.bu
 
 >[Gerber Files](https://github.com/aksharanhere/Soil-Moisture-sensor-Wifi-pcb/blob/main/Gerber_PCB_2021-02-10_23-38-45_2021-02-12.zip)
 
-> [Order from JLCPCB](https://jlcpcb.com/)
-> [Order from NextPCB](https://www.nextpcb.com/)
+> [Order from JLCPCB](https://jlcpcb.com/) \n[Order from NextPCB](https://www.nextpcb.com/)
 
 This PCB is designed using EasyEDA which is an easy to use PCB design tool.
 JLCPCB.com and NextPCB is a well known PCB manufacaturer wherein we can order quality PCBs at low prices. Once the PCB is designed using EasyEDA, we can easily order the PCB from JLCPCB.
