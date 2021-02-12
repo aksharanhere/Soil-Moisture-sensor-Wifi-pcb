@@ -11,8 +11,11 @@ unreliable to provide this o/p to any Mcu(Arduino/Esp32).
 Here the circuit was simple ,we used 4 transistors and got 4 detection values.but the problem here was as the probe were directly going to the water ,  corrosion occurred .this was the main to scrap this idea. That’s the reason we opted for Capacitance as our Prime option.Advantages of using capacitance as water level detection :
 # Advantages
 > It can measure any liquid
+
 > No corrosion Problem
+
 > Wide range of O/p for different values of Water level
+
 > Highly reliable and Efficient
  
 # PCB Description
@@ -23,6 +26,7 @@ Here the circuit was simple ,we used 4 transistors and got 4 detection values.bu
 >[Gerber Files](https://github.com/aksharanhere/Soil-Moisture-sensor-Wifi-pcb/blob/main/Gerber_PCB_2021-02-10_23-38-45_2021-02-12.zip)
 
 > [Order from JLCPCB](https://jlcpcb.com/)
+
 > [Order from NextPCB](https://www.nextpcb.com/)
 
 This PCB is designed using EasyEDA which is an easy to use PCB design tool.
