@@ -10,18 +10,11 @@ unreliable to provide this o/p to any Mcu(Arduino/Esp32).
 # With Transistors: 
 Here the circuit was simple ,we used 4 transistors and got 4 detection values.but the problem here was as the probe were directly going to the water ,  corrosion occurred .this was the main to scrap this idea. That’s the reason we opted for Capacitance as our Prime option.Advantages of using capacitance as water level detection :
 # Advantages
-o It can measure any liquid
-o No corrosion Problem
-o Wide range of O/p for different values of Water level
-o Highly reliable and Efficient
-
-
-
-<p align="center">
-<img align="center" src="https://github.com/aksharanhere/Christmas_PCB/blob/main/hp.jpg">
-</p>
-
-  
+> It can measure any liquid
+> No corrosion Problem
+> Wide range of O/p for different values of Water level
+> Highly reliable and Efficient
+ 
 # PCB Description
 > Works for any Analog/Digital reading.Sensitivity can be altered accordingly.Can be easily linked through wifi with the help wemos D1 mini pro.
 # Designed using EasyEDA, Can Order from JLCPCB/NextPCB
